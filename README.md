@@ -4,7 +4,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Latest-red)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 **Predict customer churn in telecommunications using Machine Learning**
 
@@ -273,11 +272,6 @@ Contributions are welcome! Feel free to:
 
 ---
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
 
 ## Author
 
